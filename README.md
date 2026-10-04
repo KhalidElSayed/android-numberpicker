@@ -1,5 +1,7 @@
-Android 4.0 NumberPicker backported to 2.1  
-Requires JakeWhartons NineOldAndroids library. It is included as a jar, but also available at: https://github.com/JakeWharton/NineOldAndroids  
-Probably has to be built against API level 15  
-  
-To use this library, it's required that 4 attributes are added to your theme. Check the sample app on how this is done.
+https://chat.whatsapp.com/Bhm6EsfcOme2AuDa3cXTyh?mode=gi_t
+**This library is provided as-is and is not under active development**
+
+A backport of the Android 4.2 NumberPicker.
+
+
+Requires adding a single attribute to your theme. Check the sample app for how this is done.
